@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# test files
+*.cpp__tests
+*.java__tests
+
+# java specific
+*.class
